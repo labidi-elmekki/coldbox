@@ -6,14 +6,20 @@
  و  يلبي الإحتياجات المطلوبة حيث انه يتوافق مع الأجهزة الضعيفة و صالح لكافة انظمة التشغل ويندوز،  كذالك
 به خاصية استيراد و تصدير بشكل ملفات نصية لمعلومات التلاميذ
 قاعدة  البيانات يتم انشاءها تلقائيا ،
-كذالك قمنا بحل مشكل مواليد "خلال" 
+كذالك قمنا بحل مشكل مواليد "خلال"
+كذاللك  أضضت خاصية لألرشيف  ما  تم طبااعته ...
+ 
 ربما أقوم بتحديثات عليه مستقبلا هههه...
 ملاحظة بسيطة : للأمانة البرنامج مجاني لكن محمي و يجب طلب رمز تفعيل نسختكم "هذا كي لا يقع في الأيادي الخطأ" و تضيع ملكيتنا الفكرية فقط ...
 
 في الأخير
 إن أصبنا فمن الله و إن أخطأنا فمن أنفسنا و من الشيطان
 شكرا لوقتك.
-![التق3اط](https://user-images.githubusercontent.com/84546664/222121679-99c1b10c-b765-4dba-871e-9b248b6d8a02.JPG)
-![التق4اط](https://user-images.githubusercontent.com/84546664/222121701-b3234af0-7d37-42c7-a9e3-387d0035444d.JPG)
-![التق ss g  hgl'ff,uhjاط](https://user-images.githubusercontent.com/84546664/222121752-49456367-df7b-470c-b802-ebac2343d16f.JPG)
-![التقاط1](https://user-images.githubusercontent.com/84546664/222121754-8e7e0082-46a1-444d-b7c7-a5cb94755e67.JPG)
+![االقائمة  الرئسية](https://user-images.githubusercontent.com/84546664/222123118-e0350342-7565-4b2a-8dae-cef9429457e4.JPG)
+![الباكأب](https://user-images.githubusercontent.com/84546664/222123145-4940faf7-a439-4d6d-85d7-fccd57aec35c.JPG)
+![معلوماات المؤسسة](https://user-images.githubusercontent.com/84546664/222123161-55a2a9db-561b-442b-a878-08c0be7a4ad3.JPG)
+![ااداررة التلامميذ](https://user-images.githubusercontent.com/84546664/222123176-4c5813f4-46ae-474b-ac3f-bc11650537a1.JPG)
+![اداارة التتلامي 2](https://user-images.githubusercontent.com/84546664/222123197-9e5a805f-579e-4a4c-b49c-b19d70e0fb47.JPG)
+![مواليد خلال](https://user-images.githubusercontent.com/84546664/222123213-aaf03563-5da1-4799-9d49-7fcedbc2de97.JPG)![تقرير الطباعة مع  اللكود بارر](https://user-images.githubusercontent.com/84546664/222123231-a2e26a2e-0e34-484e-8a52-5e9538192fcd.JPG)
+![ارشيف الططبباعة](https://user-images.githubusercontent.com/84546664/222123250-49a57193-125e-4274-bebc-bed07de2013f.JPG)
+
